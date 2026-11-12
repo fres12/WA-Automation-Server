@@ -1,4 +1,4 @@
-# 🤖 WA Automation Server
+# WA Automation Server
 
 Eksekutor blast WhatsApp terjadwal — bagian dari sistem **WA Blast Automation**.  
 Repo ini berjalan di background via **Windows Task Scheduler**, membaca job dari **Supabase**, membuka file Excel dari SharePoint/OneDrive, lalu mengirim screenshot range ke grup WhatsApp.
