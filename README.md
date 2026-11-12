@@ -166,10 +166,6 @@ Cek output di terminal dan di file `worker.log`. Jika ada job yang due hari ini,
 # Tambahkan sementara di .env:
 FORCE_RUN_ALL=1
 ```
-> [!WARNING]
-> Hapus atau set kembali `FORCE_RUN_ALL=0` setelah testing! Jangan biarkan aktif di production.
-
----
 
 ## ⏰ Setup Windows Task Scheduler
 
@@ -240,6 +236,6 @@ WA automation server/
 
 | Repo | Deskripsi |
 |---|---|
-| [`WA automation`](https://github.com/fres12/WA-Automation-Server) | Dashboard web (Node.js + Vite), input form automation, manajemen sesi WA |
+| [`WA automation`](https://github.com/fres12/WA-automation-web) | Dashboard web (Node.js + Vite), input form automation, manajemen sesi WA |
 | `WA automation server` *(repo ini)* | Eksekutor blast harian, berjalan via Windows Task Scheduler |
 
