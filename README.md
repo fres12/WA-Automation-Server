@@ -240,6 +240,6 @@ WA automation server/
 
 | Repo | Deskripsi |
 |---|---|
-| `WA automation` | Dashboard web (Node.js + Vite), input form automation, manajemen sesi WA |
+| [`WA automation`](https://github.com/fres12/WA-Automation-Server) | Dashboard web (Node.js + Vite), input form automation, manajemen sesi WA |
 | `WA automation server` *(repo ini)* | Eksekutor blast harian, berjalan via Windows Task Scheduler |
 
